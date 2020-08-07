@@ -6,8 +6,8 @@ EDIBO projekta elektroniskā klade
  - Shell(basics)
  - Git(basics)
  
- ####Teksts
- Teksts1 
+ #### Tests  
+ Teksts1  
  Teksts2  
  Teksts3   
  
