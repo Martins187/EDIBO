@@ -6,19 +6,7 @@ EDIBO projekta elektroniskā klade
  - Shell(basics)
  - Git(basics)
  
- ## Terminal hot-keys  
- **ALT key shortcuts**
- 1. ALT+A - Go to the beginning of a line.  
- 2. ALT+B - Move one character before the cursor.  
- 3. ALT+C - Suspends the running command/process. Same as CTRL+C  
- 4. ALT+D - Closes the empty Terminal (I.e it closes the Terminal when there is nothing typed). Also deletes all characters after the cursor.  
- 5. ALT+F - Move forward one character.  
- 6. ALT+T - Swaps the last two words.  
- 7. ALT+U - Capitalize all characters in a word after the cursor.  
- 8. ALT+L - Uncaptalize all characters in a word after the cursor.  
- 9. ALT+R - Undo any changes to a command that you have brought from the history if you’ve edited it.  
- 10. ALT+. (note the dot at the end) - Use the last word of the previous command.    
- 
+ #### Terminal hot-keys  
  **CTRL key shortcuts**
  1. CTRL+A - Quickly move to the beginning of line.  
  2. CTRL+B - To move backward one character.  
