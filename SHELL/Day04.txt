@@ -1,0 +1,7 @@
+Programmēšanas "paņēmieni" vai svarīgākās konstrukciajas:
+1.mainīgie
+1.2 konstantes
+2. operācijas
+3. nosacījuma operātors
+3.2 cikla operātors
+4.funkcijas.
