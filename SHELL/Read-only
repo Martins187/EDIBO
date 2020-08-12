@@ -1,5 +1,5 @@
 #!/bin/sh
 
 NAME="Zara Ali"
-readonly NAME
+echo NAME
 NAME="Qadiri"

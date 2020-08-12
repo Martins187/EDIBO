@@ -1,0 +1,91 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd EDIBO/
+    4  pwd
+    5  git add
+    6  ls
+    7  git add .
+    8  git clone https://github.com/Martins187/EDIBO
+    9  ls l
+   10  ls
+   11  cd EDIBO/
+   12  SHELL
+   13  cd SHELL
+   14  ls
+   15  nano Read-only
+   16  NAME
+   17  nano Read-only
+   18  Read-only NAME
+   19  nano Read-only
+   20  Read-only
+   21  nano Read-only
+   22  ./Read-only
+   23  nano test2.txt
+   24  ./test2.txt
+   25  chmod 644 test2.txt
+   26  ./test2.txt
+   27  chmod 644 test2.txt
+   28  ./test2.txt
+   29  chmod 777 test2.txt
+   30  ./test2.txt
+   31  git-upload
+   32  nano git-upload
+   33  ./git-upload
+   34  chmod 644 git-upload
+   35  ./git-upload
+   36  chmod 777 git-upload
+   37  ./git-upload
+   38  nano test2.txt
+   39  ./git-upload
+   40  ls
+   41  git push
+   42  nano git-upload
+   43  .git-upload
+   44  ./git-upload
+   45  nano git-ipload
+   46  nano git-upload
+   47  ./git-upload
+   48  nano git-upload
+   49  ./git-upload
+   50  ./git-upload
+   51  ls
+   52  mkdir Python
+   53  cd Python
+   54  nano README.md
+   55  nano git-upload.ch
+   56  ./git-upload.ch
+   57  chmod 777 git-upload.ch
+   58  nano git-upload
+   59  ./git-upload
+   60  pwd
+   61  cd Python
+   62  pwd
+   63  python
+   64  java
+   65  c#
+   66  python
+   67  ipython
+   68  nano first_python_script.py
+   69  python first_python_script.py
+   70  nano first_python_script.py
+   71  python first_python_script.py
+   72  nano first_python_script.py
+   73  python first_python_script.py
+   74  nano first_python_script.py
+   75  copy first_python_script.py second_python_script_executable.py
+   76  cp first_python_script.py second_python_script_executable.py
+   77  cd EDIBO/
+   78  ls
+   79  cd SHELL/
+   80  LS
+   81  ls
+   82  cd Python
+   83  ls
+   84  cp first_python_script.py second_python_script_executable.py
+   85  ls
+   86  nano second_python_script_executable.py
+   87  ls
+   88  idle &
+   89  cd EDIBO/
+   90  history
+   91  history > history_20200812
